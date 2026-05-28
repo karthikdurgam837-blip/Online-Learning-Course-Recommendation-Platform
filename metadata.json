@@ -1,0 +1,6 @@
+{
+  "name": "Online Learning & Course Recommendation Platform",
+  "description": "Full-stack EdTech platform featuring user tracking, progress dashboards, simulated lessons, and a hybrid AI recommender powering course recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
